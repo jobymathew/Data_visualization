@@ -1,1 +1,3 @@
-# Data_visualization
+# Data Visualization
+
+Repo for hosting notebooks.
